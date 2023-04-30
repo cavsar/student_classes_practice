@@ -11,7 +11,9 @@ public class Permission {
      In case the age is less than or equal to 20, then method will throw an RuntimeException with message "{age} is not allowed!"
      If the age is more than 20, then it will do nothing
      */
+    public static void checkAge(){
 
+    }
 
 
     /*
