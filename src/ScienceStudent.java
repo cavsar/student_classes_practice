@@ -1,6 +1,6 @@
 public class ScienceStudent extends Student{
-    public ScienceStudent(String firstName, String lastName, int age, String gender, String className) {
-        super(firstName, lastName, age, gender, className);
+    public ScienceStudent(String firstName, String lastName, int age, String gender) {
+        super(firstName, lastName, age, gender, "Science");
     }
 
     //COMPLETE THIS CLASS AFTER STUDENT CLASS
